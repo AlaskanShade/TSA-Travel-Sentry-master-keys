@@ -16,39 +16,49 @@ The TSA has issued an official statement making it known that [they don't even c
 - Special thanks to [@darksim905](https://twitter.com/darksim905) and [@irongeek_adc](https://twitter.com/irongeek_adc/status/640907196197404672) and some anonymous others who all sent us images and information surrounding these keys. Also, [@j0hnnyXm4s](https://twitter.com/J0hnnyXm4s) for his key size ratios and issue management / advice.
 
 
+3D TSA "Safe Skies" master key
+=========
+Safe Skies manufactures TSA-approved locks under their own standard, competing with Travel Sentry, and has even sued Travel Sentry for patent infringement. They have a much smaller market share than Travel Sentry. These locks can be identified by noting the words "Safe Skies" next to the keyway, in a similar location as the Travel Sentry "TSA00N" notations. All available information indicates only one override/master key exists for their entire system. Armed with this knowledge and a large hammer (no, really), [@darksim905](https://twitter.com/darksim905) and [Nite0wl](https://twitter.com/nite0wl_2600) reverse-engineered the master key bitting, and created 3D files suitable for printing. They presented their findings along with [@j0hnnyXm4s](https://twitter.com/J0hnnyXm4s) at the 11th Hackers of Planet Earth conference in New York City, in July of 2016.
+
 
 PROBLEM REPORTING
 =========
 
 If you print a key and it doesn't work:
 	
-	* First, use a caliper or other highly-accurate device to make sure the key you printed is accurate to the model. Humidity, expansion & ambient room temperature can have serious effects on print size accuracy.
+* First, use a caliper or other highly-accurate device to make sure the key you printed is accurate to the model. Humidity, expansion & ambient room temperature can have serious effects on print size accuracy.
 
-	* If it IS accurate, open an issue on the github, specify the problem file, and what problems exist (i.e. "Too wide for the keyway," "Too tall for the keyway," etc.).
+* If it IS accurate, open an issue on the github, specify the problem file, and what problems exist (i.e. "Too wide for the keyway," "Too tall for the keyway," etc.).
 
-	* Upload a picture of your lock's keyway. 
+* Upload a picture of your lock's keyway. 
 
-	* If you have the original keys for the lock, provide a measurement of the key from shoulder to tip, total height of the shoulders, and width. (i.e. X, Y & Z axes of the blade). Some keys only have one shoulder. 
+* If you have the original keys for the lock, provide a measurement of the key from shoulder to tip, total height of the shoulders, and width. (i.e. X, Y & Z axes of the blade). Some keys only have one shoulder. 
 
 
 
 LICENSE
 =========
-This project is released under the Creative Commons Attribution-NonCommercial 3.0 Unported License. For the full text of this license, see LICENSE.md
+This project is released under the Creative Commons Attribution-NonCommercial 3.0 Unported License.
 
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Cc-by-nc_icon.svg)
 
 You are free to:
 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material
+* The licensor cannot revoke these freedoms as long as you follow the license terms.
+
 Under the following terms:
 
-[!]Attribution — You must give appropriate credit to all contributors to this project, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* [!]Attribution — You must give appropriate credit to all contributors to this project, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-[!]NonCommercial — You may not use the material for commercial purposes.
+* [!]NonCommercial — You may not use the material for commercial purposes.
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
 Notices:
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-No warranties are given. The license may not 
+
+No warranties are given.
+
+For the full text of this license, see [LICENSE.md](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys/blob/master/LICENSE.md).
